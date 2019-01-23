@@ -1,3 +1,4 @@
+#include <Wire.h>  
 #define Register_ID 0
 #define Register_2D 0x2D
 #define Register_X0 0x32
